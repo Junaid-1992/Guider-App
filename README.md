@@ -1,4 +1,4 @@
-# Guider
+# Guider App
 
 A new Flutter project.
 
